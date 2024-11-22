@@ -1,0 +1,53 @@
+{
+  "name": "Wodo Gaming Token List",
+  "logoURI": "https://bscscan.com/token/images/wodo_32.png",
+  "keywords": [
+    "wodo",
+    "gaming",
+    "blockchain"
+  ],
+  "tags": {
+    "utility": {
+      "name": "Utility Token",
+      "description": "Tokens used for various utilities within the Wodo Gaming ecosystem."
+    },
+    "gaming": {
+      "name": "Gaming Token",
+      "description": "Tokens used in blockchain-based gaming applications."
+    }
+  },
+  "timestamp": "2024-11-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x62d7c4e3566f7f4033fc8e01b4d8e9bbc01c0760",
+      "symbol": "XWGT",
+      "name": "Wodo Gaming",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/wodo_32.png",
+      "tags": [
+        "utility",
+        "gaming"
+      ]
+    }
+  ],
+  "tokenMap": {
+    "56_0x62d7c4e3566f7f4033fc8e01b4d8e9bbc01c0760": {
+      "chainId": 56,
+      "address": "0x62d7c4e3566f7f4033fc8e01b4d8e9bbc01c0760",
+      "symbol": "XWGT",
+      "name": "Wodo Gaming",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/wodo_32.png",
+      "tags": [
+        "utility",
+        "gaming"
+      ]
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
